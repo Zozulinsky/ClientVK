@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ClientVK</string>
-    <integer name="com_vk_sdk_AppId">6760408</integer>
+    <string name="app_name">Vk</string>
+    <string name="signIn">Вход</string>
 </resources>
